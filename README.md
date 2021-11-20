@@ -1,2 +1,2 @@
 # AngryBirds
-Angry-Birds in python
+A simple angry birds in python
